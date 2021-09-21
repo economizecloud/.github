@@ -1,6 +1,6 @@
 # Welcome to Economize 👋
 
-![economize-cloud-banner](../assets/economize-banner.png)
+![economize-cloud-banner](https://user-images.githubusercontent.com/47351025/134226724-1a26992f-bbfa-4305-8db7-9e4ef072a2c6.png)
 
 At [Economize](https://www.economize.cloud/index.html), we help companies analyze, manage, and optimize their infrastructure costs & billing better, running on the public cloud.
 
